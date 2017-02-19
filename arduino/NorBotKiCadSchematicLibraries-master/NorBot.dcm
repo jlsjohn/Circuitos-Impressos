@@ -1,0 +1,76 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CP2102
+D CP2102 USB-to-UART bridge
+K USB
+$ENDCMP
+#
+$CMP ESP-WROOM-32
+D ESP-WROOM-32
+K ESP32 WIFI BLUETOOTH BT
+$ENDCMP
+#
+$CMP ESP8266_ESP-12
+D ESP8266 ESP-12E
+K WiFi
+$ENDCMP
+#
+$CMP GP2Y0E02B
+D i2c sensor, 4-50cm
+K sharp ir norbot
+$ENDCMP
+#
+$CMP MK20DX256VLH7
+D 32 Bit Microcontroller, K2 USB Series, ARM Cortex-M4, 72 MHz, 256 KB, 64 KB, 64 Pins, LQFP
+K Teensy
+$ENDCMP
+#
+$CMP MKL02Z32VFG4
+D 32 Bit Microcontroller, Kinetis L Series Ultra Low Power, ARM Cortex-M0+, 48 MHz, 32 KB, 4 KB
+K Teensy
+$ENDCMP
+#
+$CMP MMA8452Q
+D Accelerometer, three-axis MEMS
+K accelerometer mems
+$ENDCMP
+#
+$CMP MP23AB02B
+D MEMS Microphone
+$ENDCMP
+#
+$CMP MPU-6050
+D MPU-6050 MEMS
+K accelerometer gyroscope
+$ENDCMP
+#
+$CMP TCA9548APWR
+D i2c multiplexer, 8 channels, TSSOP-24
+K i2c Norbot
+$ENDCMP
+#
+$CMP TCA9548ARGER
+D i2c multiplexer, 8 channels, VQFN-24
+K i2c Norbot
+$ENDCMP
+#
+$CMP TLC5916
+D LED driver
+$ENDCMP
+#
+$CMP TMP102
+D i2c temperature sensor
+K temp celsius norbot
+$ENDCMP
+#
+$CMP Teensy31_32
+D Teensy 3.1/3.2 (made by Frode Lillerud)
+K Teensy Norbot
+$ENDCMP
+#
+$CMP WS2812B
+D RGB LED
+K rgb led
+$ENDCMP
+#
+#End Doc Library
